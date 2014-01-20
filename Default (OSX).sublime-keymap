@@ -4,5 +4,5 @@
 { "keys": ["super+forward_slash"], "command": "run_multiple_commands", "args": {"commands": [
 	{"command": "toggle_comment", "args": { "block": false }},
 	{"command": "move", "args": {"by": "lines", "forward": true}}
-	]}}
+]}}
 ]
