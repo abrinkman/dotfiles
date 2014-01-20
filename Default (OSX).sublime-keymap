@@ -1,0 +1,8 @@
+[
+{ "keys": ["super+alt+l"], "command": "reindent" , "args": {"single_line": false}},
+{ "keys": ["command+y"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete line.sublime-macro"}},
+{ "keys": ["super+forward_slash"], "command": "run_multiple_commands", "args": {"commands": [
+	{"command": "toggle_comment", "args": { "block": false }},
+	{"command": "move", "args": {"by": "lines", "forward": true}}
+	]}}
+]
