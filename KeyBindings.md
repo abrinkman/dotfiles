@@ -1,15 +1,17 @@
-cmd + y			Yank Line
-cmd + /			Comment out line, cursor to next line.
-cmd + p 		Find in project
-cmd + d 		Find and highlight, repetitive for multiple cursors
-cmd + n 		New File
-cmd + w 		Close Tab
+Cmd + y			Yank Line
+Cmd + /			Comment out line, cursor to next line.
+Cmd + p 		Find in project
+Cmd + d 		Find and highlight, repetitive for multiple cursors
+Cmd + n 		New File
+Cmd + w 		Close Tab
 
-cmd + Shift + d 				Duplicate line
-cmd + Shift + up/down		Move line up/down
+Cmd + Shift + d 				Duplicate line
+Cmd + Shift + up/down		Move line up/down
 
-cmd + Alt + left/right 	Next/Prev Tab
-cmd + Alt + l 					Format and indent
+Cmd + Alt + left/right 	Next/Prev Tab
+Cmd + Alt + l 					Format and indent
+
+Cmd + Cntl + p 					Switch Project
 
 Cntl + j  	JSHint
 
