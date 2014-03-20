@@ -62,7 +62,7 @@ This file is my preferred list of keybindings.  I try to get all of my editors t
 * Compare with latest version
 * Rollback
 * Inspect Code
-* Diff of two files
+* Show in Sidebar
 
 ### Notes
 Super == Command Key
