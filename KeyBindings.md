@@ -10,7 +10,7 @@ This file is my preferred list of keybindings.  I try to get all of my editors t
 * Cmd + n 								New File
 * Cmd + w 								Close Tab
 * Cmd + right/left 				End/Beginning of line
-* Cmd + up/down 					Top/Bottom of line
+* Cmd + up/down 					Top/Bottom of file
 
 * Cmd + f                 Find
 * Cmd + Alt + f 					Find/Replace
@@ -18,6 +18,7 @@ This file is my preferred list of keybindings.  I try to get all of my editors t
 * Cmd + Shift + e 				Show in Finder
 * Cmd + Shift + j					JSHint
 * Cmd + Shift + t					Trailing Spaces
+* Cmd + Shift + c  				Compare the two most recent tabs
 
 * Cmd + k, Cmd + k 				Delete to end of line
 * Cmd + k, Cmd + delete 	Delete to start of line
@@ -36,6 +37,8 @@ This file is my preferred list of keybindings.  I try to get all of my editors t
 * Cntl + up								All Desktops
 * Cntl + down							Single Desktop Overview
 
+* Alt + space 						Opens Alfred
+
 #### Marks
 * Cmd + k, Cmd + m 				set_mark
 * Cmd + k, Cmd + a 				select_to_mark
@@ -53,6 +56,7 @@ This file is my preferred list of keybindings.  I try to get all of my editors t
 * Cmd + l 								Enter Address Bar
 * Cmd + t 								Open Tab
 * Cmd + w 								Close Tab
+
 
 ### Still to figure out
 * Compare with latest version
