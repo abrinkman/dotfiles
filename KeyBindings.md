@@ -16,6 +16,7 @@ This file is my preferred list of keybindings.  I try to get all of my editors t
 * Cmd + Alt + f 					Find/Replace
 * Cmd + Shift + f 				Find in files
 * Cmd + Shift + e 				Show in Finder
+* Cmd + Shift + r         Show in Sidebar
 * Cmd + Shift + j					JSHint
 * Cmd + Shift + t					Trailing Spaces
 * Cmd + Shift + c  				Compare the two most recent tabs
@@ -30,6 +31,7 @@ This file is my preferred list of keybindings.  I try to get all of my editors t
 * Cmd + Alt + left/right 	Next/Prev Tab
 * Cmd + Alt + l 					Format and indent
 * Cmd + Alt + s 					Save all
+* Cmd + Alt + r           Rename File
 
 * Cmd + Cntl + p 					Switch Project
 
